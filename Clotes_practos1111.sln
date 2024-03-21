@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clotes_practos1111", "Clotes_practos1111\Clotes_practos1111.csproj", "{EE14913B-FEC1-4C07-B7B4-ED2CB2C2F25B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clothes_practos1111EF", "..\Clothes_practos1111EF\Clothes_practos1111EF\Clothes_practos1111EF.csproj", "{5507FB74-2547-4733-8966-688F63E37C16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE14913B-FEC1-4C07-B7B4-ED2CB2C2F25B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE14913B-FEC1-4C07-B7B4-ED2CB2C2F25B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE14913B-FEC1-4C07-B7B4-ED2CB2C2F25B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE14913B-FEC1-4C07-B7B4-ED2CB2C2F25B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5507FB74-2547-4733-8966-688F63E37C16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5507FB74-2547-4733-8966-688F63E37C16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5507FB74-2547-4733-8966-688F63E37C16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5507FB74-2547-4733-8966-688F63E37C16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6ACD4D56-C2D7-49B8-933A-5FFC95FC6FC3}
+	EndGlobalSection
+EndGlobal
